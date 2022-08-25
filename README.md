@@ -1,4 +1,4 @@
-# day51---simple-notifications
+# [Simple-Notifications deployed here!](https://simple-notification.netlify.app/)
 # Notification Message
 Here is the UI of what you will be creating.
 
